@@ -20,9 +20,8 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「𝐁𝐨𝐭 - 𝐒𝟗」
 │➯𝙷𝚘𝚕𝚊,➟${taguser}
-│➯𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Aleizn
-│➯*Número*➟51992621601
-│➯*Yape:914079837*
+│➯𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Agustina
+│➯*Número*➟5492964475713
 │➯https://www.instagram.com/ale.izn_20/
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
@@ -30,12 +29,6 @@ let str = `╭「𝐁𝐨𝐭 - 𝐒𝟗」
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥*Grupos y cuentas*➻❥」
-│➯𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍
-│➯https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo
-│➯𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍
-│➯https://chat.whatsapp.com/IOLX0V0sVbV7Od5FvxSDdr
-│➯𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍
-│➯https://www.instagram.com/ale.izn_20/==
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})

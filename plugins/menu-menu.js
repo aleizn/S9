@@ -21,7 +21,7 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let str = `╭「𝐁𝐨𝐭 - 𝐒𝟗」
 │➯ *𝙷𝙾𝙻𝙰,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Aleizn
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Agustina
 │➯ *𝙸𝙽𝙵𝙾: Wa.me/51992621601
 │➯ *Yape: 914079837
 │➯ *ғᴇᴄʜᴀ:➟${date}

@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│𝐁𝐨𝐭 - 𝐒𝟗
+│𝐀𝐠𝐮𝐬 𝐁𝐨𝐭
 │➯Wa.me/5492964475713 (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
